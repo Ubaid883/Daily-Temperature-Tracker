@@ -33,7 +33,7 @@ The main objective of this task is to:
 - Results are displayed in a neat and easy-to-read format for user convenience.
 
 ## 🧪 Example Output
-<pre> Enter temperature for Day 1: 25
+<pre>```bash   Enter temperature for Day 1: 25
 Enter temperature for Day 2: 27
 Enter temperature for Day 3: 23
 ...
@@ -51,9 +51,8 @@ Enter temperature for Day 7: 26
 
 2. Run the Python file:
 
-```bash
-        python Temperature_Tracker.py.```
-
+    ```bash
+    python Temperature_Tracker.py
 
 3. Enter the temperatures as prompted.
 
