@@ -51,7 +51,9 @@ Enter temperature for Day 7: 26
 
 2. Run the Python file:
 
-`python Temperature_Tracker.py`
+```bash
+        python Temperature_Tracker.py.```
+
 
 3. Enter the temperatures as prompted.
 
